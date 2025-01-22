@@ -1,7 +1,3 @@
-# ubuntu-in-termux
-
-[![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/Xaqkdeh)
-
 ## What's This?
 
 This is a script that allows you to install Ubuntu in your termux application without a rooted device
